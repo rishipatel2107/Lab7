@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/web/WEB-INF/users.jsp</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/dataaccess/RoleDB.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/dataaccess/UserDB.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/services/RoleService.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/services/UserService.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/servlets/UserServlet.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/models/Role.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/models/User.java</file>
+            <file>file:/C:/Users/manisha/Documents/NetBeansProjects/Lab7/Lab7/src/java/ca/sait/dataaccess/DBUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
